@@ -1,6 +1,6 @@
 import csvParser from "csv-parser"
 import fs from "fs"
-import { baseMdCode } from "./utils"
+import { getBaseMdCode } from "./utils"
 
 interface CsvInfo {
   type: string
@@ -58,7 +58,7 @@ function updateMd() {
     }
     fs.writeFileSync(
       mode === "en" ? "README.md" : "README-zh.md",
-      baseMdCode + convertToMarkdown(typeGroup),
+      getBaseMdCode(mode) + convertToMarkdown(typeGroup),
       "utf-8",
     )
   })
