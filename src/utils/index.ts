@@ -1,5 +1,5 @@
 export const getBaseMdCode = (mode: "zh" | "en") => {
-  return mode === "zh"
+  return mode === "en"
     ? `# awesome
 my awesome🍝
 
