@@ -1,2 +1,2 @@
 type,group,name,url,description
-frontend,data visualization,echarts,https://github.com/apache/echarts,一个基于 JavaScript 的开源可视化图表库
+客户端,数据可视化,echarts,https://github.com/apache/echarts,一个基于JavaScript的开源可视化图表库

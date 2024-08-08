@@ -2,11 +2,13 @@
   "name": "awesome",
   "type": "module",
   "scripts": {
-    "gen:md": "bun run src/index.ts zh && bun run src/index.ts en"
+    "gen:md": "bun run src/index.ts zh && bun run src/index.ts en",
+    "prepare": "husky"
   },
   "devDependencies": {
     "@types/bun": "latest",
     "csv-parser": "^3.0.0",
+    "husky": "^9.1.4",
     "prettier": "^3.3.3"
   },
   "peerDependencies": {

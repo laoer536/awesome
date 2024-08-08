@@ -29,10 +29,8 @@ function getCsvInfo(path: string): Promise<CsvInfo[]> {
 
 function convertToMarkdown(data: any, level = 2) {
   let markdown = ""
-
   for (const [key, value] of Object.entries(data)) {
     markdown += `${"#".repeat(level)} ${key}\n\n`
-
     if (Array.isArray(value)) {
       value.forEach((item) => {
         markdown += `- **${item.name}**: [${item.url}](${item.url})\n`
@@ -45,7 +43,6 @@ function convertToMarkdown(data: any, level = 2) {
       markdown += convertToMarkdown(value, level + 1)
     }
   }
-
   return markdown
 }
 
