@@ -33,10 +33,7 @@ function convertToMarkdown(data: any, level = 2) {
     markdown += `${"#".repeat(level)} ${key}\n\n`
     if (Array.isArray(value)) {
       value.forEach((item) => {
-        markdown += `- **${item.name}**: [${item.url}](${item.url})\n`
-        if (item.description) {
-          markdown += `  - ${item.description}\n`
-        }
+        markdown += `- **[${item.name}](${item.url})**: ${item.description}\n`
       })
       markdown += "\n"
     } else if (typeof value === "object") {
