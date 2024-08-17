@@ -8,7 +8,7 @@ my awesome🍝
 ### data visualization
 
 - **[echarts](https://github.com/apache/echarts)**: An open-source JavaScript-based visualization library.
-- **[Leaflet](https://github.com/Leaflet/Leaflet)**: JavaScript library for mobile-friendly interactive maps
+- **[leaferjs](https://github.com/leaferjs/ui)**: Colorful HTML5 Canvas 2D Graphics Rendering Engine,excellent performance.
 
 ## node
 

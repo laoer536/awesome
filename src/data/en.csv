@@ -1,4 +1,4 @@
 type,group,name,url,description
 client,data visualization,echarts,https://github.com/apache/echarts,An open-source JavaScript-based visualization library.
 node,file parse,csv-parser,https://github.com/mafintosh/csv-parser,"Parse csv file, get csv file info."
-client,data visualization,Leaflet,https://github.com/Leaflet/Leaflet,JavaScript library for mobile-friendly interactive maps
+client,data visualization,leaferjs,https://github.com/leaferjs/ui,"Colorful HTML5 Canvas 2D Graphics Rendering Engine,excellent performance."
