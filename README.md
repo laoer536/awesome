@@ -16,3 +16,7 @@ my awesome🍝
 
 - **[csv-parser](https://github.com/mafintosh/csv-parser)**: Parse csv file, get csv file info.
 
+### ORM
+
+- **[prisma](https://github.com/prisma/prisma)**: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+
