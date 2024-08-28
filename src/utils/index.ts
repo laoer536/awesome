@@ -13,7 +13,7 @@ my awesome🍝
 
 [english version](https://github.com/laoer536/awesome/blob/main/README.md)
 
-> 文档采用csv文件作为数据进行生成。利用git钩子实现git提交前执行脚本生成最终文档。.
+> 文档采用csv文件作为数据进行生成。利用git钩子实现git提交前执行脚本生成最终文档。
 
 `
 }
