@@ -22,3 +22,10 @@ my awesome🍝
 
 - **[prisma](https://github.com/prisma/prisma)**: Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
+## node&client
+
+### data
+
+- **[falso
+](https://github.com/ngneat/falso)**: All the Fake Data for All Your Real Needs 🙂. Mock data.
+

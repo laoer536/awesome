@@ -3,3 +3,5 @@ client,data visualization,echarts,https://github.com/apache/echarts,An open-sour
 node,file parse,csv-parser,https://github.com/mafintosh/csv-parser,"Parse csv file, get csv file info."
 client,data visualization,leaferjs,https://github.com/leaferjs/ui,"Colorful HTML5 Canvas 2D Graphics Rendering Engine,excellent performance."
 node,ORM,prisma,https://github.com/prisma/prisma,"Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB"
+node&client,data,"falso
+",https://github.com/ngneat/falso,All the Fake Data for All Your Real Needs 🙂. Mock data.
