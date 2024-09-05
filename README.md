@@ -11,6 +11,7 @@ my awesome🍝
 
 - **[echarts](https://github.com/apache/echarts)**: An open-source JavaScript-based visualization library.
 - **[leaferjs](https://github.com/leaferjs/ui)**: Colorful HTML5 Canvas 2D Graphics Rendering Engine,excellent performance.
+- **[LogicFlow](https://github.com/didi/LogicFlow)**: A flow chart editing framework focusing on business customization.
 
 ## node
 
